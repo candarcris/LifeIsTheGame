@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: fd0378fa928e4a249b592cd21d5025e8
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -6485162315478404990
+    second: Cilindro|CameraAction
+  - first:
+      74: 8685372945137182690
+    second: Cilindro|Cilindro.002Action
+  - first:
+      74: -8212541609992752880
+    second: Cilindro|Cilindro.004Action
+  - first:
+      74: -1367200871848760663
+    second: Cilindro|Cilindro.005Action
+  - first:
+      74: -629529911425892330
+    second: Cilindro|Cilindro.008Action
+  - first:
+      74: -5916641301913058391
+    second: Cilindro|CilindroAction
+  - first:
+      74: 7539009948596906260
+    second: Cilindro|LightAction
+  - first:
+      74: -3477491145636739843
+    second: Cilindro.002|CameraAction
+  - first:
+      74: 8048365578123563150
+    second: Cilindro.002|Cilindro.002Action
+  - first:
+      74: 3663901652650970596
+    second: Cilindro.002|Cilindro.004Action
+  - first:
+      74: 6527136510129450058
+    second: Cilindro.002|Cilindro.005Action
+  - first:
+      74: 6538853462034727389
+    second: Cilindro.002|Cilindro.008Action
+  - first:
+      74: -230247218959554554
+    second: Cilindro.002|CilindroAction
+  - first:
+      74: 4492557688263454645
+    second: Cilindro.002|LightAction
+  - first:
+      74: -8824546399960559241
+    second: Cilindro.005|CameraAction
+  - first:
+      74: -6200205459445738467
+    second: Cilindro.005|Cilindro.002Action
+  - first:
+      74: 8949946768326226875
+    second: Cilindro.005|Cilindro.004Action
+  - first:
+      74: 902345235993696471
+    second: Cilindro.005|Cilindro.005Action
+  - first:
+      74: -2325376435115400453
+    second: Cilindro.005|Cilindro.008Action
+  - first:
+      74: 7763969010556829374
+    second: Cilindro.005|CilindroAction
+  - first:
+      74: 3790802990675492281
+    second: Cilindro.005|LightAction
+  - first:
+      74: 1940215341320079955
+    second: Cilindro.004|CameraAction
+  - first:
+      74: 2028483828273859187
+    second: Cilindro.004|Cilindro.002Action
+  - first:
+      74: -7923912005933588372
+    second: Cilindro.004|Cilindro.004Action
+  - first:
+      74: 25895830741074719
+    second: Cilindro.004|Cilindro.005Action
+  - first:
+      74: -5603714562034442107
+    second: Cilindro.004|Cilindro.008Action
+  - first:
+      74: 790168624512174175
+    second: Cilindro.004|CilindroAction
+  - first:
+      74: 1455907105117801764
+    second: Cilindro.004|LightAction
+  - first:
+      74: -5028003173922042920
+    second: Cilindro.008|CameraAction
+  - first:
+      74: -3125919581362767249
+    second: Cilindro.008|Cilindro.002Action
+  - first:
+      74: -8231569042284869242
+    second: Cilindro.008|Cilindro.004Action
+  - first:
+      74: -5580398292662687007
+    second: Cilindro.008|Cilindro.005Action
+  - first:
+      74: -539435509179871507
+    second: Cilindro.008|Cilindro.008Action
+  - first:
+      74: 2530757406381490026
+    second: Cilindro.008|CilindroAction
+  - first:
+      74: 2825433609509662240
+    second: Cilindro.008|LightAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
